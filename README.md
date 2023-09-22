@@ -4,7 +4,7 @@ A very inefficient implementation of Dijkstra's algorithm for the shortest path 
 
 The implementation is based on the turing_machine implementation of Philipp Engelmann. Philipp's implementation can be found here: https://github.com/phillikus/turing_machine. 
 
-My implementation can be found in the following notebook: 
+My implementation can be found in the following notebook: https://github.com/kfoynt/Dijkstra_on_a_tape/blob/main/tests/Dijkstra.ipynb 
 
 ## Comments about the implementation and my experience.
 
